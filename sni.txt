@@ -14,3 +14,12 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+udemyiran.com:443
+iomoe.com:443
+xn--6oqt8i9pz3ij1g4rdd08j.cn
+cloudflare-dns.com
+1984666.xyz
+jkcloud.icu
+microsoftcdn.win
+ippdd.com
+ercy.wiki
